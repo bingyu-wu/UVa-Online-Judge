@@ -1,1 +1,1 @@
-# UVa_Online_Judge
+# UVa Online Judge
